@@ -1,0 +1,113 @@
+.columnas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.zonacentro{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 0px;
+}
+
+.col1{
+    width: 8.33%;
+    padding: 1%;
+}
+.col2{
+    width: 16.66%;
+    padding: 1%;
+}
+.col3{
+    width: 25%;
+    padding: 1%;
+}
+.col4{
+    width: 33.33%;
+    padding: 1%;
+}
+.col5{
+    width: 41.66%;
+    padding: 1%;
+}
+.col6{
+    width: 50%;
+    padding: 1%;
+}
+.col7{
+    width: 58.33%;
+    padding: 1%;
+}
+.col8{
+    width: 66.66%;
+    padding: 1%;
+}
+.col9{
+    width: 75%;
+    padding: 1%;
+}
+.col10{
+    width: 83.33%;
+    padding: 1%;
+}
+.col11{
+    width: 91.66%;
+    padding: 1%;
+}
+.col12{
+    width: 100%;
+    padding: 1%;
+}
+
+@media only screen and (max-width:800px){
+    .col1{
+        width: 100%;
+        padding: 1%;
+    }
+    .col2{
+        width: 100%;
+        padding: 1%;
+    }
+    .col3{
+        width: 100%;
+        padding: 1%;
+    }
+    .col4{
+        width: 100%;
+        padding: 1%;
+    }
+    .col5{
+        width: 100%;
+        padding: 1%;
+    }
+    .col6{
+        width: 100%;
+        padding: 1%;
+    }
+    .col7{
+        width: 100%;
+        padding: 1%;
+    }
+    .col8{
+        width: 100%;
+        padding: 1%;
+    }
+    .col9{
+        width: 100%;
+        padding: 1%;
+    }
+    .col10{
+        width: 100%;
+        padding: 1%;
+    }
+    .col11{
+        width: 100%;
+        padding: 1%;
+    }
+    .col12{
+        width: 100%;
+        padding: 1%;
+    }
+    
+
+}
